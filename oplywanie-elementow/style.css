@@ -1,0 +1,16 @@
+#obrazek {
+    float: left;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+#obrazek-2 {
+    float:right;
+}
+
+p:last-of-type {
+    clear: both;
+}
